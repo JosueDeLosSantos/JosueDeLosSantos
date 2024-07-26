@@ -1,4 +1,5 @@
 ## Hi there 👋
+![foto-perfil-mejorada](https://github.com/user-attachments/assets/a6a80cd2-ce36-4e2d-8e23-2e0cc2d8c6d5)
 
 <!--
 **JosueDeLosSantos/JosueDeLosSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
