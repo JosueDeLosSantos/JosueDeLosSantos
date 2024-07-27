@@ -1,4 +1,6 @@
-## Hi there 👋, Josue De Los Santos
+## Hi there 👋
+
+## My name is Josué but you can call me `Josh`
 
 #### Web Development
 
