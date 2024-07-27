@@ -8,7 +8,7 @@ As a passionate full-stack web developer, I thrive on turning ideas into functio
 ### WakaTime stats
 
 <div>
-  <a href="https://github.com/GeisonJr">
+  <a href="https://github.com/JosueDeLosSantos">
     <img
       alt="wakatime stats"
       title="WakaTime stats"
