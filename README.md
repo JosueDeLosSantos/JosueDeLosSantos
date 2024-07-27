@@ -11,6 +11,11 @@ As a passionate full-stack web developer, I thrive on turning ideas into functio
   <img width="60" src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000" alt="mongodb logo"/>
   <img width="60" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="mongodb logo"/>
   <img width="60" src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000" alt="react logo"/>
+  <img width="60" src="https://img.icons8.com/?size=100&id=nCj4PvnCO0tZ&format=png&color=000000" alt="react logo"/>
+  <img width="60" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" alt="react logo"/>
+   <img width="60" src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" alt="react logo"/>
+   <img width="60" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="react logo"/>
+   <img width="60" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="react logo"/>
 </div>
 
 ### Most used languages
