@@ -5,19 +5,6 @@ As a passionate full-stack web developer, I thrive on turning ideas into functio
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosueDeLosSantos&show_icons=true&theme=radical)
 
-### WakaTime stats
-
-<div>
-  <a href="https://github.com/JosueDeLosSantos">
-    <img
-      alt="wakatime stats"
-      title="WakaTime stats"
-      loading="lazy"
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=JosueDeLosSantos&locale=en&theme=transparent&hide_title=true&layout=compact&langs_count=20&display_format=percent"
-    />
-  </a>
-</div>
-
 ### Most used languages
 
 <div>
