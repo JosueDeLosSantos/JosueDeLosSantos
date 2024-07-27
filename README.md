@@ -7,7 +7,7 @@ As a passionate full-stack web developer, I thrive on turning ideas into functio
 
 ### My skills
 
-<img src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000" alt="react logo"/>
+<img size="20" src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000" alt="react logo"/>
 
 ### Most used languages
 
