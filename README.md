@@ -1,4 +1,5 @@
 ## Hi there 👋, Josue De Los Santos
+
 #### Web Development
 
 As a passionate full-stack web developer, I thrive on turning ideas into functional and beautiful web applications. My journey in the tech world has been exciting—I’ve dabbled in various languages and frameworks, but React holds a special place in my heart. 🚀 When I’m not coding, you’ll find me exploring new technologies, reading tech blogs, or sipping coffee while sketching wireframes. Let’s connect and build something awesome together! 🌟
@@ -8,14 +9,14 @@ As a passionate full-stack web developer, I thrive on turning ideas into functio
 ### My skills
 
 <div style="display:flex;">
-  <img width="60" src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000" alt="mongodb logo"/>
-  <img width="60" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="mongodb logo"/>
-  <img width="60" src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000" alt="react logo"/>
-  <img width="60" src="https://img.icons8.com/?size=100&id=nCj4PvnCO0tZ&format=png&color=000000" alt="react logo"/>
-  <img width="60" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" alt="react logo"/>
-   <img width="60" src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" alt="react logo"/>
-   <img width="60" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="react logo"/>
-   <img width="60" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="react logo"/>
+  <img width="60" src="./public/mongodb-icon.png" alt="mongodb logo"/>
+  <img width="60" src="./public/nodejs-icon.png" alt="node-js logo"/>
+  <img width="60" src="./public/react-icon.png" alt="react logo"/>
+  <img width="60" src="./public/typescript-icon.png" alt="typescript logo"/>
+  <img width="60" src="./public/javascript-icon.png" alt="javascript logo"/>
+   <img width="60" src="./public/tailwind-icon.png" alt="tailwind logo"/>
+   <img width="60" src="./public/css-icon.png" alt="css logo"/>
+   <img width="60" src="./public/html-icon.png" alt="html logo"/>
 </div>
 
 ### Most used languages
