@@ -8,8 +8,6 @@ As a passionate full-stack web developer, I thrive on turning ideas into functio
 ### Most used languages
 
 <div>
-  <a href="https://github.com/docu-wiki-br/docu">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=GeisonJr&repo=docu&theme=transparent"/>
   <a href="https://github.com/GeisonJr">
     <img
       alt="most used languages"
