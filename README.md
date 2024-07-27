@@ -9,14 +9,15 @@ As a passionate full-stack web developer, I thrive on turning ideas into functio
 ### My skills
 
 <div style="display:flex;">
-  <img width="60" src="./public/mongodb-icon.png" alt="mongodb logo"/>
-  <img width="60" src="./public/nodejs-icon.png" alt="node-js logo"/>
-  <img width="60" src="./public/react-icon.png" alt="react logo"/>
-  <img width="60" src="./public/typescript-icon.png" alt="typescript logo"/>
-  <img width="60" src="./public/javascript-icon.png" alt="javascript logo"/>
-   <img width="60" src="./public/tailwind-icon.png" alt="tailwind logo"/>
-   <img width="60" src="./public/css-icon.png" alt="css logo"/>
-   <img width="60" src="./public/html-icon.png" alt="html logo"/>
+  <img width="50" src="./public/mongodb-icon.png" alt="mongodb logo"/>
+  <img width="50" src="./public/express-js-icon-2.png" alt="express-js logo"/>
+  <img width="50" src="./public/nodejs-icon.png" alt="node-js logo"/>
+  <img width="50" src="./public/react-icon.png" alt="react logo"/>
+  <img width="50" src="./public/typescript-icon.png" alt="typescript logo"/>
+  <img width="50" src="./public/javascript-icon.png" alt="javascript logo"/>
+   <img width="50" src="./public/tailwind-icon.png" alt="tailwind logo"/>
+   <img width="50" src="./public/css-icon.png" alt="css logo"/>
+   <img width="50" src="./public/html-icon.png" alt="html logo"/>
 </div>
 
 ### Most used languages
