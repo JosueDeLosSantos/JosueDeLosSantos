@@ -8,6 +8,8 @@ As a passionate full-stack web developer, I thrive on turning ideas into functio
 
 ### My skills
 
+<!-- comment -->
+
 <div style="display:flex;">
   <img width="50" src="./public/mongodb-icon.png" alt="mongodb logo"/>
   <img width="50" src="./public/express-js-icon.png" alt="express-js logo"/>
@@ -18,7 +20,6 @@ As a passionate full-stack web developer, I thrive on turning ideas into functio
    <img width="50" src="./public/tailwind-icon.png" alt="tailwind logo"/>
    <img width="50" src="./public/css-icon.png" alt="css logo"/>
    <img width="50" src="./public/html-icon.png" alt="html logo"/>
-   <img width="50" src="./public/figma-icon.png" alt="figma logo"/>
 </div>
 
 ### Most used languages
