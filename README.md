@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## My name is Josue but you can call me `Josh`
+## My name is Josué but you can call me `Josh`
 
 #### Web Development
 
