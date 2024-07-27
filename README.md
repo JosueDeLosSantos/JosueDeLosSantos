@@ -10,7 +10,7 @@ As a passionate full-stack web developer, I thrive on turning ideas into functio
 
 <div style="display:flex;">
   <img width="50" src="./public/mongodb-icon.png" alt="mongodb logo"/>
-  <img width="50" src="./public/express-js-icon.jfif" alt="express-js logo"/>
+  <img width="50" src="./public/express-js-icon.png" alt="express-js logo"/>
   <img width="50" src="./public/nodejs-icon.png" alt="node-js logo"/>
   <img width="50" src="./public/react-icon.png" alt="react logo"/>
   <img width="50" src="./public/typescript-icon.png" alt="typescript logo"/>
