@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+<img
+				src="./github banner.png"
+				style="object-fit: cover"
+				alt="banner"
+			/>
 ## My name is Josué but you can call me `Josh`
 
 #### Web Development
