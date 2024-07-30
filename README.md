@@ -4,14 +4,7 @@
 				src="./public/new github banner.png"
 				style="object-fit: cover"
 				alt="banner"
-				usemap="#social-media-map"
 			/>
-
-   <map name="social-media-map">
-                <area alt="Linked in profile" title="Linked in profile" href="https://www.linkedin.com/in/josuedelossantos/" coords="321,291,650,340" shape="rect">
-                <area alt="Twitter profile" title="Twitter profile" href="https://x.com/joshcoder2000" coords="666,293,938,340" shape="rect">
-                <area alt="Instagram profile" title="Instagram profile" href="https://www.instagram.com/joshcoder2000/" coords="956,291,1179,341" shape="rect">
-            </map>
 
 ## My name is Josué but you can call me `Josh`
 
