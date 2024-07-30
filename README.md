@@ -1,40 +1,11 @@
 ## Hi there 👋
 
-<div style="max-width: 1500px;">
-			<img
+<img
 				src="./github banner.png"
 				style="object-fit: cover"
 				alt="banner"
 				usemap="#social-media-map"
 			/>
-
-			<map name="social-media-map">
-				<area
-					target=""
-					alt="Linked in profile"
-					title="Linked in profile"
-					href="https://www.linkedin.com/in/josuedelossantos/"
-					coords="321,346,649,394"
-					shape="rect"
-				/>
-				<area
-					target=""
-					alt="Twitter profile"
-					title="Twitter profile"
-					href="https://x.com/joshcoder2000"
-					coords="667,345,939,395"
-					shape="rect"
-				/>
-				<area
-					target=""
-					alt="Instagram profile"
-					title="Instagram profile"
-					href="https://www.instagram.com/joshcoder2000/"
-					coords="955,345,1179,395"
-					shape="rect"
-				/>
-			</map>
-		</div>
 
 ## My name is Josué but you can call me `Josh`
 
