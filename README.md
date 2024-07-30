@@ -1,6 +1,6 @@
 ## Hi there 👋
 <img
-				src="./github banner.png"
+				src="./public/github banner.png"
 				style="object-fit: cover"
 				alt="banner"
 			/>
