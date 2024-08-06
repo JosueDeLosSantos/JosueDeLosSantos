@@ -25,6 +25,8 @@ As a passionate full-stack web developer, I thrive on turning ideas into functio
    <img width="50" src="./public/figma-icon.png" alt="figma logo"/>
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JosueDeLosSantos&theme=transparent)](https://git.io/streak-stats)
+
 ### Most used languages
 
 <div>
@@ -37,5 +39,3 @@ As a passionate full-stack web developer, I thrive on turning ideas into functio
     />
   </a>
 </div>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JosueDeLosSantos&theme=transparent)](https://git.io/streak-stats)
