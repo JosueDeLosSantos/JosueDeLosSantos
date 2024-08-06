@@ -10,6 +10,8 @@
 
 As a passionate full-stack web developer, I thrive on turning ideas into functional and beautiful web applications. My journey in the tech world has been exciting—I’ve dabbled in various languages and frameworks, but React holds a special place in my heart. 🚀 When I’m not coding, you’ll find me exploring new technologies, reading tech blogs, or sipping coffee while sketching wireframes. Let’s connect and build something awesome together! 🌟
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JosueDeLosSantos&theme=transparent)](https://git.io/streak-stats)
+
 ### My skills
 
 <div style="display:flex;">
@@ -24,8 +26,6 @@ As a passionate full-stack web developer, I thrive on turning ideas into functio
    <img width="50" src="./public/html-icon.png" alt="html logo"/>
    <img width="50" src="./public/figma-icon.png" alt="figma logo"/>
 </div>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JosueDeLosSantos&theme=transparent)](https://git.io/streak-stats)
 
 ### Most used languages
 
