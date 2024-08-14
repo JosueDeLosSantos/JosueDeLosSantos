@@ -4,7 +4,14 @@
 				src="./public/new github banner.png"
 				style="object-fit: cover"
 				alt="banner"
+        usemap="#social-media-map"
 			/>
+
+      <map name="social-media-map">
+                <area alt="Linked in profile" title="Linked in profile" href="https://www.linkedin.com/in/josuedelossantos/" coords="321,291,650,340" shape="rect">
+                <area alt="Twitter profile" title="Twitter profile" href="https://x.com/joshcoder2000" coords="666,293,938,340" shape="rect">
+                <area alt="Instagram profile" title="Instagram profile" href="https://www.instagram.com/joshcoder2000/" coords="956,291,1179,341" shape="rect">
+            </map>
 
 ## My name is Josué but you can call me `Josh`
 
@@ -19,12 +26,15 @@ As a passionate full-stack web developer, I thrive on turning ideas into functio
   <img width="50" src="./public/express-js-icon.png" alt="express-js logo"/>
   <img width="50" src="./public/nodejs-icon.png" alt="node-js logo"/>
   <img width="50" src="./public/react-icon.png" alt="react logo"/>
+  <img width="50" src="./public/redux.png" alt="redux logo"/>
+  <img width="50" src="./public/MUI.png" alt="MUI logo"/>
   <img width="50" src="./public/typescript-icon.png" alt="typescript logo"/>
   <img width="50" src="./public/javascript-icon.png" alt="javascript logo"/>
    <img width="50" src="./public/tailwind-icon.png" alt="tailwind logo"/>
    <img width="50" src="./public/css-icon.png" alt="css logo"/>
    <img width="50" src="./public/html-icon.png" alt="html logo"/>
    <img width="50" src="./public/figma-icon.png" alt="figma logo"/>
+   <img width="50" src="./public/photoshop.png" alt="photoshop logo"/>
 </div>
 
 ### Most used languages
