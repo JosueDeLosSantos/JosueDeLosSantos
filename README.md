@@ -61,3 +61,10 @@ As a passionate full-stack web developer, I thrive on turning ideas into functio
   <img alt="shopping cart shop" src="./public/shopping-cart-shop.jpg" width="200"/>&nbsp;&nbsp;&nbsp;
   <img alt="shopping cart" src="./public/shopping-cart-cart.jpg" width="200"/>
 </div>
+
+#### [CV Builder](https://github.com/JosueDeLosSantos/CV-builder.git)
+
+<div styles="display: flex;">
+  <img alt="CV builder" src="./public/CV-builder-content.jpg" width="200"/>&nbsp;&nbsp;&nbsp;
+  <img alt="CV builder" src="./public/CV-builder-customize.jpg" width="200"/>
+</div>
