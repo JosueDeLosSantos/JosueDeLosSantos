@@ -68,3 +68,13 @@ As a passionate full-stack web developer, I thrive on turning ideas into functio
   <img alt="CV builder" src="./public/CV-builder-content.jpg" width="200"/>&nbsp;&nbsp;&nbsp;
   <img alt="CV builder" src="./public/CV-builder-customize.jpg" width="200"/>
 </div>
+
+## JavaScript projects
+
+#### [Todo List](https://github.com/JosueDeLosSantos/Todo-List.git)
+
+<div styles="display: flex;">
+  <img alt="landing page" src="./public/todo-list-landing-page.jpg" width="200"/>&nbsp;&nbsp;&nbsp;
+  <img alt="all tasks page" src="./public/todo-list-alltasks.jpg" width="200"/>&nbsp;&nbsp;&nbsp;
+  <img alt="priority page" src="./public/todo-list-priority.jpg" width="200"/>
+</div>
