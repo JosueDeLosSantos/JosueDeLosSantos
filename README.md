@@ -54,4 +54,10 @@ As a passionate full-stack web developer, I thrive on turning ideas into functio
   <img alt="post screen" src="./public/desktop-post-dark.jpg" width="200"/>
 </div>
 
-This is my first full stack project where I applied all the concepts I’ve learned as a web developer so far, without following any tutorials. It showcases my journey and growth as a developer. The blog features a custom-built CMS, responsive design, and various interactive elements. Technologies used include HTML, CSS, Tailwind CSS, TypeScript, React, Redux, Node.js, Express, MongoDB, and multiple libraries. This project demonstrates my ability to handle both front-end and back-end development, as well as my commitment to continuous learning and improvement.
+#### [Shopping Cart](https://github.com/JosueDeLosSantos/Shopping-Cart.git)
+
+<div styles="display: flex;">
+  <img alt="shopping cart landing page" src="./public/shopping-cart-landing.jpg" width="200"/>&nbsp;&nbsp;&nbsp;
+  <img alt="shopping cart shop" src="./public/shopping-cart-shop.jpg" width="200"/>&nbsp;&nbsp;&nbsp;
+  <img alt="shopping cart" src="./public/shopping-cart-cart.jpg" width="200"/>
+</div>
