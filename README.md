@@ -43,3 +43,13 @@ As a passionate full-stack web developer, I thrive on turning ideas into functio
     />
   </a>
 </div>
+
+### React projects
+
+#### [Personal Blog CMS](https://github.com/JosueDeLosSantos/blog-api-admin-page.git)
+
+<div styles="display: flex;">
+  <img alt="editor screen" src="./public/editor-screen-dark.jpg" width="200"/>&nbsp;&nbsp;&nbsp;
+  <img alt="main screen" src="./public/main-screen-dark.jpg" width="200"/>&nbsp;&nbsp;&nbsp;
+  <img alt="post screen" src="./public/desktop-post-dark.jpg" width="200"/>
+</div>
