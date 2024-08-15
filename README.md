@@ -44,7 +44,7 @@ As a passionate full-stack web developer, I thrive on turning ideas into functio
   </a>
 </div>
 
-### React projects
+## React projects
 
 #### [Personal Blog CMS](https://github.com/JosueDeLosSantos/blog-api-admin-page.git)
 
