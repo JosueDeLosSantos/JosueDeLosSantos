@@ -66,8 +66,7 @@ As a passionate full-stack web developer, I thrive on turning ideas into functio
 
 <div styles="display: flex;">
   <img alt="CV builder" src="./public/CV-builder-content.jpg" width="200"/>&nbsp;&nbsp;&nbsp;
-  <img alt="CV builder" src="./public/CV-builder-customize.jpg" width="200"/>&nbsp;&nbsp;&nbsp;
-  <img alt="CV builder" src="./public/cv-customize-2.jpg" width="200"/>
+  <img alt="CV builder" src="./public/CV-builder-customize.jpg" width="200"/>
 </div>
 
 ## JavaScript projects
