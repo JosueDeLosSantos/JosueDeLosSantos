@@ -90,3 +90,5 @@ As a passionate full-stack web developer, I thrive on turning ideas into functio
 ## Currently working on:
 
 #### [Ableton Website Recreation](https://github.com/JosueDeLosSantos/Ableton-Website-Recreation.git)
+
+<img width="200" src="./public/C1-Ableton.webp">
