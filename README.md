@@ -87,10 +87,6 @@ As a passionate full-stack web developer, I thrive on turning ideas into functio
   <img alt="priority page" src="./public/todo-list-priority.jpg" width="200"/>
 </div>
 
-#### [Tic Tac Toe Game](https://github.com/JosueDeLosSantos/Project-Tic-Tac-Toe.git)
+## Currently working on:
 
-<div styles="display: flex;">
-  <img alt="players page" src="./public/tic-tac-toe-game-players.jpg" width="200"/>&nbsp;&nbsp;&nbsp;
-  <img alt="selection page" src="./public/tic-tac-toe-game-selection.jpg" width="200"/>&nbsp;&nbsp;&nbsp;
-  <img alt="playing page" src="./public/tic-tac-toe-game-playing.jpg" width="200"/>
-</div>
+#### [Ableton Website Recreation](https://github.com/JosueDeLosSantos/Ableton-Website-Recreation.git)
