@@ -69,26 +69,8 @@ As a passionate full-stack web developer, I thrive on turning ideas into functio
   <img alt="CV builder" src="./public/CV-builder-customize.jpg" width="200"/>
 </div>
 
-## JavaScript projects
-
-#### [Battleship Game](https://github.com/JosueDeLosSantos/Project-Battleship.git)
-
-<div styles="display: flex;">
-  <img alt="landing page" src="./public/battleship-landing.jpg" width="200"/>&nbsp;&nbsp;&nbsp;
-  <img alt="placing ships page" src="./public/battleship-placing.jpg" width="200"/>&nbsp;&nbsp;&nbsp;
-  <img alt="playing page" src="./public/battleship-playing.jpg" width="200"/>
-</div>
-
-#### [Todo List](https://github.com/JosueDeLosSantos/Todo-List.git)
-
-<div styles="display: flex;">
-  <img alt="landing page" src="./public/todo-list-landing-page.jpg" width="200"/>&nbsp;&nbsp;&nbsp;
-  <img alt="all tasks page" src="./public/todo-list-alltasks.jpg" width="200"/>&nbsp;&nbsp;&nbsp;
-  <img alt="priority page" src="./public/todo-list-priority.jpg" width="200"/>
-</div>
-
 ## Currently working on:
 
 #### [Ableton Website Recreation](https://github.com/JosueDeLosSantos/Ableton-Website-Recreation.git)
 
-<img width="200" src="./public/C1-Ableton.webp">
+<img width="200" src="./public/Ableton.jpg">
