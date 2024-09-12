@@ -16,7 +16,7 @@ As a passionate full-stack developer, I thrive on turning ideas into functional 
 ### My skills
 
 <div style="display:flex;">
-<img width="50" src="./public/postgresql.png" alt="postgresql logo"/>
+<img width="50" src="./public/postgresql-icon.png" alt="postgresql logo"/>
   <img width="50" src="./public/mongodb-icon.png" alt="mongodb logo"/>
   <img width="50" src="./public/express-js-icon.png" alt="express-js logo"/>
   <img width="50" src="./public/nodejs-icon.png" alt="node-js logo"/>
