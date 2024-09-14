@@ -47,6 +47,12 @@ As a passionate full-stack developer, I thrive on turning ideas into functional 
 
 ## React projects
 
+#### [YouTube Home Page Replica](https://github.com/JosueDeLosSantos/youtube-home-page-react-ts-tailwind.git)
+
+<div styles="display: flex;">
+  <img alt="youtube home page" src="./public/youtubehomepage.jpg" width="200"/>&
+</div>
+
 #### [Personal Blog CMS](https://github.com/JosueDeLosSantos/blog-api-admin-page.git)
 
 <div styles="display: flex;">
