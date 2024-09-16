@@ -47,7 +47,7 @@ As a software developer, I thrive on turning ideas into functional and beautiful
   <img alt="youtube home page" src="./public/youtubehomepage.jpg" width="200"/>&
 </div>
 
-#### [Ableton Website Recreation](https://github.com/JosueDeLosSantos/Ableton-Website-Recreation.git)
+#### [Ableton Website Home Page](https://github.com/JosueDeLosSantos/Ableton-Website-Recreation.git)
 
 <img width="200" src="./public/Ableton.jpg">
 
