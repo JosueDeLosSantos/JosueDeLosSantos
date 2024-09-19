@@ -70,7 +70,7 @@ As a software developer, I thrive on turning ideas into functional and beautiful
 
 #### [CV Builder](https://github.com/JosueDeLosSantos/CV-builder.git)
 
-<div styles="display: flex;">
-  <div><a href="https://github.com/JosueDeLosSantos/CV-builder.git"><img alt="CV builder" src="./public/CV-builder-content.jpg" width="200"/></a></div>&nbsp;&nbsp;&nbsp;
-  <div><a href="https://github.com/JosueDeLosSantos/CV-builder.git"><img alt="CV builder" src="./public/CV-builder-customize.jpg" width="200"/></a></div>
+<div >
+  <div styles="float: left; margin-right: 10px;"><a href="https://github.com/JosueDeLosSantos/CV-builder.git"><img alt="CV builder" src="./public/CV-builder-content.jpg" width="200"/></a></div>&nbsp;&nbsp;&nbsp;
+  <div styles="float: left;"><a href="https://github.com/JosueDeLosSantos/CV-builder.git"><img alt="CV builder" src="./public/CV-builder-customize.jpg" width="200"/></a></div>
 </div>
