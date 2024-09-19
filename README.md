@@ -43,31 +43,34 @@ As a software developer, I thrive on turning ideas into functional and beautiful
 
 #### [YouTube Home Page Replica](https://github.com/JosueDeLosSantos/youtube-home-page-react-ts-tailwind.git)
 
-<div styles="display: flex;">
-  <img alt="youtube home page" src="./public/youtubehomepage.jpg" width="200"/>&
+<div>
+  <div><a href="https://github.com/JosueDeLosSantos/youtube-home-page-react-ts-tailwind.git"><img alt="youtube home page" src="./public/youtubehomepage.jpg" width="200"/></a></div>
 </div>
 
 #### [Ableton Website Home Page](https://github.com/JosueDeLosSantos/Ableton-Website-Recreation.git)
 
-<img width="200" src="./public/Ableton.jpg">
+<div><a href="https://github.com/JosueDeLosSantos/Ableton-Website-Recreation.git"><img width="200" src="./public/Ableton.jpg"></a></div>
 
 #### [Personal Blog CMS](https://github.com/JosueDeLosSantos/blog-api-admin-page.git)
 
 <div styles="display: flex;">
-  <img alt="editor screen" src="./public/editor-screen-dark.jpg" width="200"/>&nbsp;&nbsp;&nbsp;
-  <img alt="main screen" src="./public/main-screen-dark.jpg" width="200"/>&nbsp;&nbsp;&nbsp;
-  <img alt="post screen" src="./public/desktop-post-dark.jpg" width="200"/>
+<div><a href="https://github.com/JosueDeLosSantos/blog-api-admin-page.git"><img alt="editor screen" src="./public/editor-screen-dark.jpg" width="200"/></a></div>
+  &nbsp;&nbsp;&nbsp;
+  <div><a href="https://github.com/JosueDeLosSantos/blog-api-admin-page.git"><img alt="main screen" src="./public/main-screen-dark.jpg" width="200"/></a></div>
+  &nbsp;&nbsp;&nbsp;
+  <div><a href="https://github.com/JosueDeLosSantos/blog-api-admin-page.git"><img alt="post screen" src="./public/desktop-post-dark.jpg" width="200"/></a></div>
+  
 </div>
 
 #### [Memory Game](https://github.com/JosueDeLosSantos/Memory-Card.git)
 
 <a href="https://github.com/JosueDeLosSantos/Memory-Card.git">
-  <img alt="Memory Game landing page" src="./public/memory-game.png" width="200"/>&nbsp;&nbsp;&nbsp;
+  <img alt="Memory Game landing page" src="./public/memory-game.png" width="200"/>
 </a>
 
 #### [CV Builder](https://github.com/JosueDeLosSantos/CV-builder.git)
 
 <div styles="display: flex;">
-  <img alt="CV builder" src="./public/CV-builder-content.jpg" width="200"/>&nbsp;&nbsp;&nbsp;
-  <img alt="CV builder" src="./public/CV-builder-customize.jpg" width="200"/>
+  <div><a href="https://github.com/JosueDeLosSantos/CV-builder.git"><img alt="CV builder" src="./public/CV-builder-content.jpg" width="200"/></a></div>&nbsp;&nbsp;&nbsp;
+  <div><a href="https://github.com/JosueDeLosSantos/CV-builder.git"><img alt="CV builder" src="./public/CV-builder-customize.jpg" width="200"/></a></div>
 </div>
