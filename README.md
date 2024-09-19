@@ -70,4 +70,4 @@ As a software developer, I thrive on turning ideas into functional and beautiful
 
 #### [CV Builder](https://github.com/JosueDeLosSantos/CV-builder.git)
 
-<a styles="display: flex;" href="https://github.com/JosueDeLosSantos/CV-builder.git"><img alt="CV builder" src="./public/CV-builder-content.jpg" width="200"/>&nbsp;&nbsp;&nbsp;<img alt="CV builder" src="./public/CV-builder-customize.jpg" width="200"/></a>
+<a styles="display: flex;" href="https://github.com/JosueDeLosSantos/CV-builder.git"><img alt="CV builder" src="./public/CV-builder-content.jpg" width="200"/>&nbsp;<img alt="CV builder" src="./public/CV-builder-customize.jpg" width="200"/></a>
