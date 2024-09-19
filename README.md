@@ -53,14 +53,7 @@ As a software developer, I thrive on turning ideas into functional and beautiful
 
 #### [Personal Blog CMS](https://github.com/JosueDeLosSantos/blog-api-admin-page.git)
 
-<div styles="display: flex;">
-<div><a href="https://github.com/JosueDeLosSantos/blog-api-admin-page.git"><img alt="editor screen" src="./public/editor-screen-dark.jpg" width="200"/></a></div>
-  &nbsp;&nbsp;&nbsp;
-  <div><a href="https://github.com/JosueDeLosSantos/blog-api-admin-page.git"><img alt="main screen" src="./public/main-screen-dark.jpg" width="200"/></a></div>
-  &nbsp;&nbsp;&nbsp;
-  <div><a href="https://github.com/JosueDeLosSantos/blog-api-admin-page.git"><img alt="post screen" src="./public/desktop-post-dark.jpg" width="200"/></a></div>
-  
-</div>
+<a styles="display: flex;" href="https://github.com/JosueDeLosSantos/blog-api-admin-page.git"><img alt="editor screen" src="./public/editor-screen-dark.jpg" width="200"/>&nbsp;<img alt="main screen" src="./public/main-screen-dark.jpg" width="200"/>&nbsp;<img alt="post screen" src="./public/desktop-post-dark.jpg" width="200"/></a>
 
 #### [Memory Game](https://github.com/JosueDeLosSantos/Memory-Card.git)
 
