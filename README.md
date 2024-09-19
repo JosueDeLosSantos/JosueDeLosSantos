@@ -59,11 +59,11 @@ As a software developer, I thrive on turning ideas into functional and beautiful
   <img alt="post screen" src="./public/desktop-post-dark.jpg" width="200"/>
 </div>
 
-#### [Shopping Cart](https://github.com/JosueDeLosSantos/Shopping-Cart.git)
+#### [Memory Game](https://github.com/JosueDeLosSantos/Memory-Card.git)
 
-<div styles="display: flex;">
-  <img alt="shopping cart landing page" src="./public/shopping-cart-landing.jpg" width="200"/>&nbsp;&nbsp;&nbsp;
-</div>
+<a href="https://github.com/JosueDeLosSantos/Memory-Card.git">
+  <img alt="Memory Game landing page" src="./public/memory-game.png" width="200"/>&nbsp;&nbsp;&nbsp;
+</a>
 
 #### [CV Builder](https://github.com/JosueDeLosSantos/CV-builder.git)
 
