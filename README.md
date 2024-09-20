@@ -56,8 +56,8 @@ As a software developer, I thrive on turning ideas into functional and beautiful
 #### [Personal Blog CMS](https://github.com/JosueDeLosSantos/blog-api-admin-page.git)
 
 <p>
-  <a href="https://github.com/JosueDeLosSantos/blog-api-admin-page.git"><img alt="editor screen" src="./public/editor-screen-dark.jpg" width="200"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/JosueDeLosSantos/blog-api-admin-page.git"><img alt="main screen" src="./public/main-screen-dark.jpg" width="200"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/JosueDeLosSantos/blog-api-admin-page.git"><img alt="editor screen" src="./public/editor-screen-dark.jpg" width="200"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/JosueDeLosSantos/blog-api-admin-page.git"><img alt="main screen" src="./public/main-screen-dark.jpg" width="200"/></a>&nbsp;&nbsp;
   <a href="https://github.com/JosueDeLosSantos/blog-api-admin-page.git"><img alt="post screen" src="./public/desktop-post-dark.jpg" width="200"/></a>
 </p>
 
@@ -70,6 +70,6 @@ As a software developer, I thrive on turning ideas into functional and beautiful
 #### [CV Builder](https://github.com/JosueDeLosSantos/CV-builder.git)
 
 <p>
-  <a href="https://github.com/JosueDeLosSantos/CV-builder.git"><img alt="CV builder" src="./public/CV-builder-content.jpg" width="200"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/JosueDeLosSantos/CV-builder.git"><img alt="CV builder" src="./public/CV-builder-content.jpg" width="200"/></a>&nbsp;&nbsp;
   <a href="https://github.com/JosueDeLosSantos/CV-builder.git"><img alt="CV builder" src="./public/CV-builder-customize.jpg" width="200"/></a>
 </p>
