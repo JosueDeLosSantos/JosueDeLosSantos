@@ -43,17 +43,23 @@ As a software developer, I thrive on turning ideas into functional and beautiful
 
 #### [YouTube Home Page Replica](https://github.com/JosueDeLosSantos/youtube-home-page-react-ts-tailwind.git)
 
-<div>
-  <div><a href="https://github.com/JosueDeLosSantos/youtube-home-page-react-ts-tailwind.git"><img alt="youtube home page" src="./public/youtubehomepage.jpg" width="200"/></a></div>
-</div>
+<p>
+  <a href="https://github.com/JosueDeLosSantos/youtube-home-page-react-ts-tailwind.git"><img alt="youtube home page" src="./public/youtubehomepage.jpg" width="200"/></a>
+</p>
 
 #### [Ableton Website Home Page](https://github.com/JosueDeLosSantos/Ableton-Website-Recreation.git)
 
-<div><a href="https://github.com/JosueDeLosSantos/Ableton-Website-Recreation.git"><img width="200" src="./public/Ableton.jpg"></a></div>
+<p>
+  <a href="https://github.com/JosueDeLosSantos/Ableton-Website-Recreation.git"><img width="200" src="./public/Ableton.jpg"></a>
+</p>
 
 #### [Personal Blog CMS](https://github.com/JosueDeLosSantos/blog-api-admin-page.git)
 
-<a styles="display: flex;" href="https://github.com/JosueDeLosSantos/blog-api-admin-page.git"><img alt="editor screen" src="./public/editor-screen-dark.jpg" width="200"/>&nbsp;<img alt="main screen" src="./public/main-screen-dark.jpg" width="200"/>&nbsp;<img alt="post screen" src="./public/desktop-post-dark.jpg" width="200"/></a>
+<p>
+  <a href="https://github.com/JosueDeLosSantos/blog-api-admin-page.git"><img alt="editor screen" src="./public/editor-screen-dark.jpg" width="200"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/JosueDeLosSantos/blog-api-admin-page.git"><img alt="main screen" src="./public/main-screen-dark.jpg" width="200"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/JosueDeLosSantos/blog-api-admin-page.git"><img alt="post screen" src="./public/desktop-post-dark.jpg" width="200"/></a>
+</p>
 
 #### [Memory Game](https://github.com/JosueDeLosSantos/Memory-Card.git)
 
@@ -64,7 +70,6 @@ As a software developer, I thrive on turning ideas into functional and beautiful
 #### [CV Builder](https://github.com/JosueDeLosSantos/CV-builder.git)
 
 <p>
-<a href="https://github.com/JosueDeLosSantos/CV-builder.git"><img alt="CV builder" src="./public/CV-builder-content.jpg" width="200"/></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/JosueDeLosSantos/CV-builder.git"><img alt="CV builder" src="./public/CV-builder-customize.jpg" width="200"/></a>
+  <a href="https://github.com/JosueDeLosSantos/CV-builder.git"><img alt="CV builder" src="./public/CV-builder-content.jpg" width="200"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/JosueDeLosSantos/CV-builder.git"><img alt="CV builder" src="./public/CV-builder-customize.jpg" width="200"/></a>
 </p>
-
-<!-- <a styles="display: flex;" href="https://github.com/JosueDeLosSantos/CV-builder.git"><img alt="CV builder" src="./public/CV-builder-content.jpg" width="200"/>&nbsp;<img alt="CV builder" src="./public/CV-builder-customize.jpg" width="200"/></a> -->
