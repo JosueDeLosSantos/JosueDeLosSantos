@@ -45,7 +45,7 @@ As a software developer, I thrive on turning ideas into functional and beautiful
 #### [YouTube Home Page Replica](https://github.com/JosueDeLosSantos/youtube-home-page-react-ts-tailwind.git)
 
 <p>
-  <a href="https://github.com/JosueDeLosSantos/youtube-home-page-react-ts-tailwind.git"><img alt="youtube home page" src="./public/youtubehomepage.jpg" width="200"/></a>
+  <a href="https://github.com/JosueDeLosSantos/youtube-home-page-react-ts-tailwind.git"><img alt="youtube home page" src="./public/youtubehome.jpg" width="200"/></a>
 </p>
 
 #### [Ableton Website Home Page](https://github.com/JosueDeLosSantos/Ableton-Website-Recreation.git)
