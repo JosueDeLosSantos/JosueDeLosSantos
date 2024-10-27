@@ -42,6 +42,12 @@ As a software developer, I thrive on turning ideas into functional and beautiful
 
 ## React projects
 
+#### [Shopping Cart](https://github.com/JosueDeLosSantos/shopping-cart-ts.git)
+
+<p>
+  <a href="https://github.com/JosueDeLosSantos/shopping-cart-ts.git"><img alt="youtube home page" src="./public/shopping-cart.jpg" width="200"/></a>
+</p>
+
 #### [YouTube Home Page Replica](https://github.com/JosueDeLosSantos/youtube-home-page-react-ts-tailwind.git)
 
 <p>
