@@ -16,7 +16,7 @@ As a software developer, I thrive on turning ideas into functional and beautiful
 ### My skills
 
 <div style="display:flex;">
-  <img width="50" src="./public/c-sharp-logo-64.png" alt="C# logo"/>
+  <img width="50" src="./public/Next.js.png" alt="Next.js"/>
   <img width="50" src="./public/react-icon.png" alt="react logo"/>
   <img width="50" src="./public/typescript-icon.png" alt="typescript logo"/>
   <img width="50" src="./public/javascript-icon.png" alt="javascript logo"/>
