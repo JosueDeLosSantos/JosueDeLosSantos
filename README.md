@@ -25,6 +25,8 @@ As a software developer, I thrive on turning ideas into functional and beautiful
   <img width="50" src="./public/photoshop.png" alt="photoshop logo"/>
 </div>
 
+<br/>
+
 ![JosueDeLosSantos's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosueDeLosSantos&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
 
 ![JosueDeLosSantos's Stats](https://github-readme-stats.vercel.app/api?username=JosueDeLosSantos&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
