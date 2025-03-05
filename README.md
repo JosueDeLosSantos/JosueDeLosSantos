@@ -38,5 +38,4 @@ As a software developer, I thrive on turning ideas into functional and beautiful
   </a>
 </div>
 
-![JosueDeLosSantos's Stats](https://github-readme-stats.vercel.app/api?username=JosueDeLosSantos&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-![JosueDeLosSantos's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JosueDeLosSantos&theme=vue-dark&hide_border=false)
+![JosueDeLosSantos's Stats](https://github-readme-stats.vercel.app/api?username=JosueDeLosSantos&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
