@@ -11,10 +11,6 @@
 
 As a software developer, I thrive on turning ideas into functional and beautiful applications. My journey in the tech world has been exciting—I’ve dabbled in various languages and frameworks, but React holds a special place in my heart. 🚀 When I’m not coding, you’ll find me exploring new technologies, reading tech blogs, or sipping coffee while sketching wireframes. Let’s connect and build something awesome together! 🌟
 
-![JosueDeLosSantos's Stats](https://github-readme-stats.vercel.app/api?username=JosueDeLosSantos&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-![JosueDeLosSantos's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JosueDeLosSantos&theme=vue-dark&hide_border=false)
-![JosueDeLosSantos's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosueDeLosSantos&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
-
 ### My skills
 
 <div style="display:flex;">
@@ -41,3 +37,6 @@ As a software developer, I thrive on turning ideas into functional and beautiful
     />
   </a>
 </div>
+
+![JosueDeLosSantos's Stats](https://github-readme-stats.vercel.app/api?username=JosueDeLosSantos&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![JosueDeLosSantos's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JosueDeLosSantos&theme=vue-dark&hide_border=false)
