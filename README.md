@@ -25,17 +25,6 @@ As a software developer, I thrive on turning ideas into functional and beautiful
   <img width="50" src="./public/photoshop.png" alt="photoshop logo"/>
 </div>
 
-### Most used languages
-
-<div>
-  <a href="https://github.com/JosueDeLosSantos">
-    <img
-      alt="most used languages"
-      title="Most used languages"
-      loading="lazy"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueDeLosSantos&locale=en&theme=transparent&hide_title=true&layout=compact&langs_count=20&size_weight=0.5&count_weight=0.5"
-    />
-  </a>
-</div>
+![JosueDeLosSantos's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosueDeLosSantos&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
 
 ![JosueDeLosSantos's Stats](https://github-readme-stats.vercel.app/api?username=JosueDeLosSantos&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
