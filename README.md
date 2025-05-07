@@ -29,6 +29,4 @@ As a software developer, I thrive on turning ideas into functional and beautiful
 
 ![JosueDeLosSantos's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosueDeLosSantos&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
 
-![JosueDeLosSantos's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JosueDeLosSantos&theme=highcontrast&hide_border=false)
-
 ![JosueDeLosSantos's Stats](https://github-readme-stats.vercel.app/api?username=JosueDeLosSantos&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
