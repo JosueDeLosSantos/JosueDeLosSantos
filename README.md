@@ -11,6 +11,10 @@
 
 As a software developer, I thrive on turning ideas into functional and beautiful applications. My journey in the tech world has been exciting—I’ve dabbled in various languages and frameworks, but React holds a special place in my heart. 🚀 When I’m not coding, you’ll find me exploring new technologies, reading tech blogs, or sipping coffee while sketching wireframes. Let’s connect and build something awesome together! 🌟
 
+<br/>
+
+Take a look at my [**portfolio**](https://portfolio-website-pi-one.vercel.app/)!
+
 ### My skills
 
 <div style="display:flex;">
